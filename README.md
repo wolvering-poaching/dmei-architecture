@@ -1,4 +1,4 @@
-[中文]（RAEDME.md）| [English]（RAEDME_EN.md）
+[中文]（README.md）| [English]（README_EN.md）
 # dmei-architecture
 多态门边缘理论AI构筑架构白皮书
 ---
